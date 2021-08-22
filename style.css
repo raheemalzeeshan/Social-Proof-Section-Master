@@ -258,11 +258,11 @@ main {
     }
 
     .left-card .rating-box:nth-child(2) {
-       margin: 0 auto;
+       margin: 0 auto 15px;
     }
 
     .left-card .rating-box:nth-child(3) {
-        margin: 0px auto;
+        margin: 0px auto 15px;
     }
 
     .btm-col {
@@ -271,7 +271,7 @@ main {
 
     .left-card .rating-box {
         text-align: center;
-        margin: 0 auto;
+        margin: 0 auto 15px;
     }
 
     .left-card .rating-box span {
